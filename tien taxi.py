@@ -4,7 +4,7 @@ Created on Sun Aug 18 15:47:02 2024
 
 @author: 84372
 """
-duong=float(input("nhap quang duong di  "))
+duong=float(input("nhap quang duong di: "))
 if duong==1:
     x=20
     print("tien taxi:" ,x )
