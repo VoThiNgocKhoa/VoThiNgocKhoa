@@ -29,4 +29,4 @@ else:
         x=-b/(2*a )
         print("nghiem kep " ,x )
     else:
-        print("phương trinh vo nghiem ")5
+        print("phuong trinh vo nghiem ")
