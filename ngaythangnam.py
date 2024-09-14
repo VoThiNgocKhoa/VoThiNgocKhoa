@@ -6,7 +6,7 @@ Created on Sun Aug 18 16:17:14 2024
 """
 
 dmy=input("nhap ngay thang nam theo dinh dang  dd/mm/yyyy: ")
-day=int(dmy[0:2])
+day=int(dmy[:2])
 month=int(dmy[3:5])
 year=int(dmy[6:])
 if month > 0 and month <= 12:
